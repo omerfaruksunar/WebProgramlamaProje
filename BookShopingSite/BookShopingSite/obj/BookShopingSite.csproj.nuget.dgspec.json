@@ -1,0 +1,125 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\omerfaruksunar\\source\\repos\\BookShopingSite\\BookShopingSite\\BookShopingSite.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\omerfaruksunar\\source\\repos\\BookShopingSite\\BookShopingSite\\BookShopingSite.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\omerfaruksunar\\source\\repos\\BookShopingSite\\BookShopingSite\\BookShopingSite.csproj",
+        "projectName": "BookShopingSite",
+        "projectPath": "C:\\Users\\omerfaruksunar\\source\\repos\\BookShopingSite\\BookShopingSite\\BookShopingSite.csproj",
+        "packagesPath": "C:\\Users\\omerfaruksunar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\omerfaruksunar\\source\\repos\\BookShopingSite\\BookShopingSite\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\omerfaruksunar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\omerfaruksunar\\source\\repos\\BookShopingSite\\BusinessLayer\\BusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\omerfaruksunar\\source\\repos\\BookShopingSite\\BusinessLayer\\BusinessLayer.csproj"
+              },
+              "C:\\Users\\omerfaruksunar\\source\\repos\\BookShopingSite\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\omerfaruksunar\\source\\repos\\BookShopingSite\\DataAccessLayer\\DataAccessLayer.csproj"
+              },
+              "C:\\Users\\omerfaruksunar\\source\\repos\\BookShopingSite\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\omerfaruksunar\\source\\repos\\BookShopingSite\\EntityLayer\\EntityLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\omerfaruksunar\\source\\repos\\BookShopingSite\\BusinessLayer\\BusinessLayer.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\omerfaruksunar\\source\\repos\\BookShopingSite\\BusinessLayer\\BusinessLayer.csproj",
+        "projectName": "BusinessLayer",
+        "projectPath": "C:\\Users\\omerfaruksunar\\source\\repos\\BookShopingSite\\BusinessLayer\\BusinessLayer.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\omerfaruksunar\\source\\repos\\BookShopingSite\\DataAccessLayer\\DataAccessLayer.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\omerfaruksunar\\source\\repos\\BookShopingSite\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectName": "DataAccessLayer",
+        "projectPath": "C:\\Users\\omerfaruksunar\\source\\repos\\BookShopingSite\\DataAccessLayer\\DataAccessLayer.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\omerfaruksunar\\source\\repos\\BookShopingSite\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\omerfaruksunar\\source\\repos\\BookShopingSite\\EntityLayer\\EntityLayer.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\omerfaruksunar\\source\\repos\\BookShopingSite\\EntityLayer\\EntityLayer.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\omerfaruksunar\\source\\repos\\BookShopingSite\\EntityLayer\\EntityLayer.csproj",
+        "projectName": "EntityLayer",
+        "projectPath": "C:\\Users\\omerfaruksunar\\source\\repos\\BookShopingSite\\EntityLayer\\EntityLayer.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
