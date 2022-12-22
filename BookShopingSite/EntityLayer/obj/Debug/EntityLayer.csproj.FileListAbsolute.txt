@@ -10,3 +10,15 @@ C:\Users\omerfaruksunar\source\repos\BookShopingSite\EntityLayer\obj\Debug\Entit
 C:\Users\omerfaruksunar\source\repos\BookShopingSite\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
 C:\Users\omerfaruksunar\source\repos\BookShopingSite\EntityLayer\obj\Debug\EntityLayer.dll
 C:\Users\omerfaruksunar\source\repos\BookShopingSite\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\BookShopingSite\EntityLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\BookShopingSite\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\BookShopingSite\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\BookShopingSite\EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\BookShopingSite\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\BookShopingSite\EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\BookShopingSite\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\BookShopingSite\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\BookShopingSite\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\BookShopingSite\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\BookShopingSite\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\BookShopingSite\EntityLayer\obj\Debug\EntityLayer.pdb
