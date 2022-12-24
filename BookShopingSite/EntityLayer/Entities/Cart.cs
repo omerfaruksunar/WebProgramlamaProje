@@ -10,7 +10,7 @@ namespace EntityLayer.Entities
     public class Cart
     {
         public int Id { get; set; }
-        [Display(Name ="Ürün")]
+        [Display(Name = "Ürün")]
         public int UrunId { get; set; }
         [Display(Name = "Adet")]
         public int Quantity { get; set; }

@@ -11,20 +11,20 @@ namespace EntityLayer.Entities
     {
         public int Id { get; set; }
         //Name kısmını doldurmayı zorunlu yaptım ve doldurulmadıgında hata mesajı verdirdim.
-        [Required(ErrorMessage="Bu alani doldurmak zorunludur.")]
-        [Display(Name="Ad")]
+        [Required(ErrorMessage = "Bu alani doldurmak zorunludur.")]
+        [Display(Name = "Ad")]
         //Veri tabanında sisme yapmaması icin 50 karakterle sınırladım.
-        [StringLength(50,ErrorMessage ="En fazla 50 karakter olmalıdır")]
+        [StringLength(50, ErrorMessage = "En fazla 50 karakter olmalıdır")]
         public string Name { get; set; }
         //Aciklama kısmını doldurmayı zorunlu yaptım ve doldurulmadıgında hata mesajı verdirdim.
         [Required(ErrorMessage = "Bu alani doldurmak zorunludur.")]
         [Display(Name = "Açıklama")]
         //Veri tabanında sisme yapmaması icin 50 karakterle sınırladım.
         [StringLength(50, ErrorMessage = "En fazla 50 karakter olmalıdır")]
-        public string Description { get; set; } 
+        public string Description { get; set; }
 
-        public virtual List<Product> Products{ get; set; }
+        public virtual List<Product> Products { get; set; }
 
-        
+
     }
 }

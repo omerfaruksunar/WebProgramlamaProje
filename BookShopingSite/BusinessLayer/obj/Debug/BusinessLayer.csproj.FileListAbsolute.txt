@@ -1,6 +1,0 @@
-C:\Users\omerfaruksunar\source\repos\BookShopingSite\BusinessLayer\bin\Debug\BusinessLayer.dll
-C:\Users\omerfaruksunar\source\repos\BookShopingSite\BusinessLayer\bin\Debug\BusinessLayer.pdb
-C:\Users\omerfaruksunar\source\repos\BookShopingSite\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
-C:\Users\omerfaruksunar\source\repos\BookShopingSite\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
-C:\Users\omerfaruksunar\source\repos\BookShopingSite\BusinessLayer\obj\Debug\BusinessLayer.dll
-C:\Users\omerfaruksunar\source\repos\BookShopingSite\BusinessLayer\obj\Debug\BusinessLayer.pdb
