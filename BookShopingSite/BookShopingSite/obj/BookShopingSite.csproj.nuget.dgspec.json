@@ -117,7 +117,14 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\omerfaruksunar\\Documents\\GitHub\\WebProgramlamaProje\\BookShopingSite\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\omerfaruksunar\\Documents\\GitHub\\WebProgramlamaProje\\BookShopingSite\\DataAccessLayer\\DataAccessLayer.csproj"
+              },
+              "C:\\Users\\omerfaruksunar\\Documents\\GitHub\\WebProgramlamaProje\\BookShopingSite\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\omerfaruksunar\\Documents\\GitHub\\WebProgramlamaProje\\BookShopingSite\\EntityLayer\\EntityLayer.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

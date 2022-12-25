@@ -786,6 +786,10 @@
       "BusinessLayer/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DataAccessLayer": "1.0.0",
+          "EntityLayer": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/BusinessLayer.dll": {}
         },
