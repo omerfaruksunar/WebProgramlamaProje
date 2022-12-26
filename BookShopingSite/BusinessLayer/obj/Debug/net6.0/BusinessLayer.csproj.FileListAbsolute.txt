@@ -10,3 +10,8 @@ C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\BookShopingSite\Bus
 C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\BookShopingSite\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
 C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\BookShopingSite\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
 C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\BookShopingSite\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\BookShopingSite\BusinessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\BookShopingSite\BusinessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\BookShopingSite\BusinessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\BookShopingSite\BusinessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\BookShopingSite\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
