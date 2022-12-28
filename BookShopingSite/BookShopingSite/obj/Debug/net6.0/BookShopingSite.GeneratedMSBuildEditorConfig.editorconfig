@@ -16,6 +16,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\BookShopingSite\BookShopingSite
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/omerfaruksunar/Documents/GitHub/WebProgramlamaProje/BookShopingSite/BookShopingSite/Views/AdminCategory/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5DYXRlZ29yeVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/omerfaruksunar/Documents/GitHub/WebProgramlamaProje/BookShopingSite/BookShopingSite/Views/AdminCategory/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5DYXRlZ29yeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/omerfaruksunar/Documents/GitHub/WebProgramlamaProje/BookShopingSite/BookShopingSite/Views/AdminCategory/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5DYXRlZ29yeVxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/omerfaruksunar/Documents/GitHub/WebProgramlamaProje/BookShopingSite/BookShopingSite/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

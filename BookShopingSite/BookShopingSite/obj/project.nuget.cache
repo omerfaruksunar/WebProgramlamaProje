@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "pyectuxcoj8EJXX81F2lGgzLG5/jTQoH7uwlyMYJ1yQ3VLjhVr7V0c6AzLrJZ8+FpxmVtKaOdijIFJCCBe89Og==",
+  "dgSpecHash": "ksNvsJoJAWEkNMLeyxEAoA4y8cP6Vg7y01AL2Y+S6/AwGI7BlFchZdB6U51WgjPUxH1mpNWa5HL/jzmIjIZ7Bw==",
   "success": true,
   "projectFilePath": "C:\\Users\\omerfaruksunar\\Documents\\GitHub\\WebProgramlamaProje\\BookShopingSite\\BookShopingSite\\BookShopingSite.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\omerfaruksunar\\.nuget\\packages\\bootstrap\\5.2.3\\bootstrap.5.2.3.nupkg.sha512",
     "C:\\Users\\omerfaruksunar\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\omerfaruksunar\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\omerfaruksunar\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",
