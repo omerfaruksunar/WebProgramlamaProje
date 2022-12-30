@@ -60,7 +60,7 @@ namespace BookShopingSite.Controllers
                 categoryRepository.Update(update);
                 return RedirectToAction("Index");
             }
-            ModelState.AddModelError("", "Bir hata olustu.");
+            ModelState.AddModelError("", "Bir hata olusmustur.");
             return View();
            
         }
