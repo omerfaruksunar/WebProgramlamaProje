@@ -1,0 +1,17 @@
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf.DataAccess\obj\Debug\net6.0\Sahaf.DataAccess.csproj.AssemblyReference.cache
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf.DataAccess\obj\Debug\net6.0\Sahaf.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf.DataAccess\obj\Debug\net6.0\Sahaf.DataAccess.AssemblyInfoInputs.cache
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf.DataAccess\obj\Debug\net6.0\Sahaf.DataAccess.AssemblyInfo.cs
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf.DataAccess\obj\Debug\net6.0\Sahaf.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf.DataAccess\bin\Debug\net6.0\Sahaf.DataAccess.deps.json
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf.DataAccess\bin\Debug\net6.0\Sahaf.DataAccess.runtimeconfig.json
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf.DataAccess\bin\Debug\net6.0\Sahaf.DataAccess.dll
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf.DataAccess\bin\Debug\net6.0\Sahaf.DataAccess.pdb
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf.DataAccess\bin\Debug\net6.0\Sahaf.Models.dll
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf.DataAccess\bin\Debug\net6.0\Sahaf.Models.pdb
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf.DataAccess\obj\Debug\net6.0\Sahaf.DataAccess.csproj.CopyComplete
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf.DataAccess\obj\Debug\net6.0\Sahaf.DataAccess.dll
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf.DataAccess\obj\Debug\net6.0\refint\Sahaf.DataAccess.dll
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf.DataAccess\obj\Debug\net6.0\Sahaf.DataAccess.pdb
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf.DataAccess\obj\Debug\net6.0\Sahaf.DataAccess.genruntimeconfig.cache
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf.DataAccess\obj\Debug\net6.0\ref\Sahaf.DataAccess.dll

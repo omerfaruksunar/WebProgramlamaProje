@@ -1,0 +1,12 @@
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf.Utility\bin\Debug\net6.0\Sahaf.Utility.deps.json
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf.Utility\bin\Debug\net6.0\Sahaf.Utility.dll
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf.Utility\bin\Debug\net6.0\Sahaf.Utility.pdb
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf.Utility\obj\Debug\net6.0\Sahaf.Utility.csproj.AssemblyReference.cache
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf.Utility\obj\Debug\net6.0\Sahaf.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf.Utility\obj\Debug\net6.0\Sahaf.Utility.AssemblyInfoInputs.cache
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf.Utility\obj\Debug\net6.0\Sahaf.Utility.AssemblyInfo.cs
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf.Utility\obj\Debug\net6.0\Sahaf.Utility.csproj.CoreCompileInputs.cache
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf.Utility\obj\Debug\net6.0\Sahaf.Utility.dll
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf.Utility\obj\Debug\net6.0\refint\Sahaf.Utility.dll
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf.Utility\obj\Debug\net6.0\Sahaf.Utility.pdb
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf.Utility\obj\Debug\net6.0\ref\Sahaf.Utility.dll
