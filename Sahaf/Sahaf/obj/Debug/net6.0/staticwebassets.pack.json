@@ -17,6 +17,22 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\omerfaruksunar\\Documents\\GitHub\\WebProgramlamaProje\\Sahaf\\Sahaf\\wwwroot\\images\\products\\52d148a4-3c0a-4a32-b6ae-335b9b7f3de6.png",
+      "PackagePath": "staticwebassets\\images\\products\\52d148a4-3c0a-4a32-b6ae-335b9b7f3de6.png"
+    },
+    {
+      "Id": "C:\\Users\\omerfaruksunar\\Documents\\GitHub\\WebProgramlamaProje\\Sahaf\\Sahaf\\wwwroot\\images\\products\\656aa1c6-f1a4-40d9-a2a1-f4bb8d034d5b.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\656aa1c6-f1a4-40d9-a2a1-f4bb8d034d5b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\omerfaruksunar\\Documents\\GitHub\\WebProgramlamaProje\\Sahaf\\Sahaf\\wwwroot\\images\\products\\7b967222-02f0-40d0-be65-4f50a11d48e9.png",
+      "PackagePath": "staticwebassets\\images\\products\\7b967222-02f0-40d0-be65-4f50a11d48e9.png"
+    },
+    {
+      "Id": "C:\\Users\\omerfaruksunar\\Documents\\GitHub\\WebProgramlamaProje\\Sahaf\\Sahaf\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
       "Id": "C:\\Users\\omerfaruksunar\\Documents\\GitHub\\WebProgramlamaProje\\Sahaf\\Sahaf\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

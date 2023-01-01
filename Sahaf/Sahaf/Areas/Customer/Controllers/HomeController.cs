@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Sahaf.Models;
 
-namespace Sahaf.Controllers
+namespace Sahaf.Areas.Customer.Controllers
 {
     public class HomeController : Controller
     {
