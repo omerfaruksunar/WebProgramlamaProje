@@ -24,18 +24,20 @@
                         <li class="nav-item">
                                 <a class="nav-link" asp-area="Customer" asp-controller="Home" asp-action="Index">Home<span class="visually-hidden">(current)</span></a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="Admin" asp-controller="Category" asp-action="Index">Category<span class="visually-hidden">(current)</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="Admin" asp-controller="CoverType" asp-action="Index">CoverType<span class="visually-hidden">(current)</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="Admin" asp-controller="Product" asp-action="Index">Product<span class="visually-hidden">(current)</span></a>
+                        </li>
                         
                             
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" data-bs-target="#menu1" href="#" role="button" aria-haspopup="true" aria-expanded="false">Content Managment</a>
-                                <div  id="menu1" class="dropdown-menu">
-                                    <a class="dropdown-item" asp-area="Admin" asp-controller="Category" asp-action="Index">Category</a>
-                                    <a class="dropdown-item" asp-area="Admin" asp-controller="CoverType" asp-action="Index">CoverType</a>
-                                    <a class="dropdown-item" asp-area="Admin" asp-controller="Product" asp-action="Index">Product</a>
-                                    <div class="dropdown-divider"></div>
-                               </div>
-                        </li>
+                        
                     </ul>
+                   
                     @*<form class="d-flex">
                         <input class="form-control me-sm-2" type="search" placeholder="Search">
                         <button class="btn btn-secondary my-2 my-sm-0" type="submit">Search</button>

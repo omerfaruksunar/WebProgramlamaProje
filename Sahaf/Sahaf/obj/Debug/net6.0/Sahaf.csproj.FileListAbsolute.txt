@@ -566,3 +566,8 @@ C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf\bin\Deb
 C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf\obj\Debug\net6.0\Sahaf.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\omerfaruksunar\Documents\GitHub\WebProgramlamaProje\Sahaf\Sahaf\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
